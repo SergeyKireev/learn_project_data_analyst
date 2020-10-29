@@ -38,7 +38,7 @@ https://t.me/sr_kireev
   - визуализация данных
   - предобработка данных
 
-[Ссылка на тетрадку Jupiter Nonebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%CC%86%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80)
+[Ссылка на тетрадку Jupyter Notebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%CC%86%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80)
 
 ## 📞 Определение перспективного тарифа для телеком компании
 Проведен предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора и рекомендованы оптимальные наборы услуг для пользователей. Проведена предобработка данных, их анализ. Проверены гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов.
@@ -56,7 +56,7 @@ https://t.me/sr_kireev
   - описательная статистика
   - проверка статистических гипотез
 
-[Ссылка на тетрадку Jupiter Nonebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%B2%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)
+[Ссылка на тетрадку Jupyter Notebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%B2%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)
 
 ## 🕹 Исследование рынка компьютерных игр
 Выявлены параметры, определяющие успешность игры в разных регионах мира. На основании этого подготовлен отчет для магазина компьютерных игр для планирования рекламных кампаний. Проведена предобработка данных, анализ. Выбран актуальный период для анализа. Составлены портреты пользователей каждого региона. Проверены гипотезы: средние пользовательские рейтинги платформ Xbox One и PC одинаковые; средние пользовательские рейтинги жанров Action и Sports разные. При анализе использовал критерий Стьюдента для независимых выборок.
@@ -75,7 +75,7 @@ https://t.me/sr_kireev
   - описательная статистика
   - проверка статистических гипотез
 
-[Ссылка на тетрадку Jupiter Nonebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80)
+[Ссылка на тетрадку Jupyter Notebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80)
 
 
 ## 🛩 Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей
@@ -94,7 +94,7 @@ https://t.me/sr_kireev
   - SciPy
   - проверка статистических гипотез
 
-[Ссылка на тетрадку Jupiter Nonebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20(%D0%9C%D0%B8%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82))
+[Ссылка на тетрадку Jupyter Notebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20(%D0%9C%D0%B8%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82))
 
 
 ## 🔧 Оптимизация маркетинговых затрат в Яндекс.Афише
@@ -112,7 +112,7 @@ https://t.me/sr_kireev
   - юнит-экономика
   - продуктовые метрики
 
-[Ссылка на тетрадку Jupiter Nonebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%CC%86%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%90%D1%84%D0%B8%D1%88%D0%B0)
+[Ссылка на тетрадку Jupyter Notebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%CC%86%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%90%D1%84%D0%B8%D1%88%D0%B0)
 
 
 
@@ -131,7 +131,7 @@ https://t.me/sr_kireev
   - A/B-тестирование
   - проверка статистических гипотез
 
-[Ссылка на тетрадку Jupiter Nonebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20A:B%20%D1%82%D0%B5%D1%81%D1%82%D0%B0)
+[Ссылка на тетрадку Jupyter Notebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20A:B%20%D1%82%D0%B5%D1%81%D1%82%D0%B0)
 
 
 
@@ -153,7 +153,7 @@ https://t.me/sr_kireev
   - BeautifulSoup
   - jointplot
 
-[Ссылка на тетрадку Jupiter Nonebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5)
+[Ссылка на тетрадку Jupyter Notebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5)
 
 
 
@@ -176,7 +176,7 @@ https://t.me/sr_kireev
   - проверка статистических гипотез
   - визуализация данных
 
-[Ссылка на тетрадку Jupiter Nonebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%CC%86%20%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8)
+[Ссылка на тетрадку Jupyter Notebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%CC%86%20%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8)
 
 
 
@@ -216,5 +216,5 @@ https://t.me/sr_kireev
   - классификация
   - кластеризация
 
-[Ссылка на тетрадку Jupiter Nonebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D0%BA%D0%BB%D1%83%D0%B1%D0%B0)
+[Ссылка на тетрадку Jupyter Notebook](https://github.com/SergeyKireev/learn_project_data_analyst/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D0%BA%D0%BB%D1%83%D0%B1%D0%B0)
 
